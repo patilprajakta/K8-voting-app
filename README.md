@@ -1,2 +1,2 @@
 # K8-voting-app
-Kubernetesbasic commands
+Kubernetes basic commands
