@@ -1,0 +1,18 @@
+1.Download zip file from Kubernetes voting app
+
+2.Understand each deployment file
+
+3.Set replicas initially to 1
+
+4. Kubectl create -f .
+
+5 . Verify application is running
+
+6. Scale replica to 3
+
+6. Again deploy the application
+
+
+- individual scaling is done
+- redis, postgres, python
+
